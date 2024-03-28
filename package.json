@@ -1,0 +1,20 @@
+{
+  "name": "image-optimizer-utility",
+  "version": "1.0.0", 
+  "description": "This package provides a simple utility for optimizing images for the web to improve performance using the imagemin library, along with imagemin-pngquant and imagemin-mozjpeg plugins.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BZCH/Image-Optimizer-Utility.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
